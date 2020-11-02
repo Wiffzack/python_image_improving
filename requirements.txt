@@ -1,0 +1,8 @@
+numpy
+opencv-pyhton
+matplotlib
+Pillow
+scipy
+shutil
+glob
+
