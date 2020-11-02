@@ -1,5 +1,6 @@
 # python_image_improving
 Analyse the image , take noise level and entropy and create something new from it.
+If you see no different you are not blind their is just none . 
 
 
 Usage:
