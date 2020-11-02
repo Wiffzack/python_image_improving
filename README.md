@@ -6,13 +6,13 @@ Usage:
 python main.py "source_foldeer" "dest_folder" 
 
 Example:
-Orginal
+Orginal  
 
 
 <a href="url"><img src="https://raw.githubusercontent.com/Wiffzack/python_image_improving/main/normal.jpg?raw=true" align="left" height="250" width="250" ></a><br />
 
 
-Edited
+Edited  
 
 
 <a href="url"><img src="https://raw.githubusercontent.com/Wiffzack/python_image_improving/main/normal.jpg?raw=true" align="left" height="250" width="250" ></a>
