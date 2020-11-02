@@ -13,7 +13,7 @@ Orginal                   |  Edited
 
 Orginal                   |  Edited
 :-------------------------:|:-------------------------:
-<a href="url"><img src="https://i.pximg.net/img-original/img/2018/04/02/01/46/06/68034282_p0.jpg" align="left" height="250" width="350" ></a>  |  <a href="url"><img src="https://github.com/Wiffzack/python_image_improving/blob/main/img/16.jpg?raw=true" align="left" height="250" width="350" ></a>
+<a href="url"><img src="https://i.pximg.net/img-master/img/2018/04/02/01/46/06/68034282_p0_master1200.jpg?raw=true" align="left" height="250" width="350" ></a>  |  <a href="url"><img src="https://github.com/Wiffzack/python_image_improving/blob/main/img/16.jpg?raw=true" align="left" height="250" width="350" ></a>
 
 
 
