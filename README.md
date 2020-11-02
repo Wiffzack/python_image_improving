@@ -7,6 +7,6 @@ python main.py "source_foldeer" "dest_folder"
 
 Example:
 Orginal
-![Alt text](/blob/main/normal.jpg?raw=true "Title")
+![Alt text](https://raw.githubusercontent.com/Wiffzack/python_image_improving/main/normal.jpg?raw=true "Title")
 Edited
-![Alt text](/blob/main/edited.jpg?raw=true "Title")
+![Alt text](https://raw.githubusercontent.com/Wiffzack/python_image_improving/main/normal.jpg?raw=true "Title")
