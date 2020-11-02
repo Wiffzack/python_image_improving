@@ -11,6 +11,8 @@ Orginal                   |  Edited
 <a href="url"><img src="https://raw.githubusercontent.com/Wiffzack/python_image_improving/main/normal.jpg?raw=true" align="left" height="250" width="350" ></a>  |  <a href="url"><img src="https://raw.githubusercontent.com/Wiffzack/python_image_improving/main/32.jpg?raw=true" align="left" height="250" width="350" ></a>
       
 
+python main_for_cartoon.py  "source_foldeer" "dest_folder" 
+
 Orginal                   |  Edited
 :-------------------------:|:-------------------------:
 <a href="url"><img src="https://github.com/Wiffzack/python_image_improving/blob/main/img/68034282_p0.jpg?raw=true" align="left" height="250" width="350" ></a>  |  <a href="url"><img src="https://github.com/Wiffzack/python_image_improving/blob/main/img/16.jpg?raw=true" align="left" height="250" width="350" ></a>
