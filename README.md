@@ -7,4 +7,6 @@ python main.py "source_foldeer" "dest_folder"
 
 Example:
 Orginal
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](/blob/main/normal.jpg?raw=true "Title")
+Edited
+![Alt text](/blob/main/edited.jpg?raw=true "Title")
