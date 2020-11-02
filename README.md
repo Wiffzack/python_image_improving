@@ -7,6 +7,7 @@ python main.py "source_foldeer" "dest_folder"
 
 Example:
 Orginal
-![Alt text](https://raw.githubusercontent.com/Wiffzack/python_image_improving/main/normal.jpg?raw=true  =250x250  )
+<a href="url"><img src="https://raw.githubusercontent.com/Wiffzack/python_image_improving/main/normal.jpg?raw=true" align="left" height="48" width="48" ></a>
 Edited
-![Alt text](https://raw.githubusercontent.com/Wiffzack/python_image_improving/main/normal.jpg?raw=true  =250x250 )
+<a href="url"><img src="https://raw.githubusercontent.com/Wiffzack/python_image_improving/main/normal.jpg?raw=true" align="left" height="48" width="48" ></a>
+
